@@ -1,2 +1,0 @@
-class Bool < ApplicationRecord
-end
